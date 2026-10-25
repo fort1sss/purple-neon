@@ -1,0 +1,5 @@
+{
+  "name": "purple-neon",
+  "owner": { "name": "fort1sss" },
+  "plugins": [{ "name": "purple-neon", "source": "./" }]
+}
